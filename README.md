@@ -1,6 +1,6 @@
 # Pronóstico de precio de Cacao Colombiano en Europa a través de series temporales
 
-## Trabajo fin de master de Jhoan Sebastián Báez Acevedo
+## Trabajo fin de máster de Jhoan Sebastián Báez Acevedo
 ### Máster universitario en visual analytics and Big data
 
 Para instalar los paquetes en la versión adecuada debe:
